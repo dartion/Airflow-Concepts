@@ -1,4 +1,4 @@
-# Airflow - Sample Dags
+# Airflow - Concepts
 
 Note: This code uses Celery Executor running Airflow 1.10.0.
 
